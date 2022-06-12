@@ -9,10 +9,10 @@ function About() {
      
       <div className="max-w-4xl mt-20 mx-auto">
         <p className="text-2xl text-black  md:text-4xl font-bold text-center">
-        Hey 👋  
+        Не только риэлтор, но и твой друг) 👋  
         </p>
         <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
-        I'm a passionate web and flutter developer. I love creating content for people on my channel, Backslash Flutter. I also love freelancing and contributing to open-source projects. 
+        Всем привет, меня зовут Валентин и я кто? Правильно, агент по недвижимости. Я конечно не 007, но при этом виртуозно решу твой жилищный вопрос будь то продажа или покупка недвижимости. А теперь давай рассмотрим в чем и где я могу быть полезен именно тебе. 
 
         </p>
 
