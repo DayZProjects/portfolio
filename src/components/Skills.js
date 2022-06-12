@@ -9,7 +9,7 @@ import { FiFigma } from 'react-icons/fi';
 function Skills() {
   return (
 
-    <div className="max-w-4xl mt-20 mx-auto">
+    <div className="max-w-4xl mt-20 mx-auto" id="tech">
         <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
         Начнём с продажи.
         <br />Я продам квартиру, частный дом, участок, гараж. При этом совершенно не важно, какая у тебя ситуация. Разберусь с любой, будь то наследство, опека, обременение либо долги. И это будет абсолютно безопасно для тебя. Даже если тебе нужно продать и сразу же купить жильё, без крыши над головой ты не останешься.
