@@ -6,23 +6,22 @@ import { SiTailwindcss } from 'react-icons/si';
 import { SiJavascript } from 'react-icons/si';
 import { FiFigma } from 'react-icons/fi';
  
-function Skills() {
+function Skills3() {
   return (
 
-    <div className="max-w-4xl mx-auto justify-center py-12" id="tech">
+    <div className="max-w-4xl mx-auto justify-center py-12">
       <p className="text-2xl text-black  md:text-4xl font-bold text-center pt-4">
-        Начнём с продажи.
+      Хочешь я купить квартиру в другом регионе?
       </p>
-      
+
 
       <div className = "flex flex-wrap justify-center pt-2">
-      
 
         <p className="text-base text-left md:text-center text-gray-500 leading-relaxed mt-4 justify-center">
-          Я продам квартиру, частный дом, участок, гараж. При этом совершенно не важно, какая у тебя ситуация. Разберусь с любой, будь то наследство, опека, обременение либо долги. И это будет абсолютно безопасно для тебя. Даже если тебе нужно продать и сразу же купить жильё, без крыши над головой ты не останешься.
-          <br />Оплата моих услуг фиксированная -3%, от суммы продажи но не менее 60к.
-          <br />Во время продажи тебе нужно будет расслабиться и получать удовольствие, потому что я сделаю все сам. Тебе останется только прийти на сделку.
-          
+          Тогда расскажу с какими городами мы сотрудничаем.
+          <br />Москва, Санкт-Петербург, Калининград, Новосибирск, Екатеринбург, Тюмень.
+          <br />Если ты нашёл в этом списке город, в который собрался переезжать или инвестировать свои сбережения. Я подберу для тебя самый оптимальный вариант, относительно качества, месторасположения, комфорта и цены.
+          <br />И это также будет для тебя бесплатно.-
         </p>
 
       </div>
@@ -86,4 +85,4 @@ function Skills() {
   )
 }
 
-export default Skills
+export default Skills3

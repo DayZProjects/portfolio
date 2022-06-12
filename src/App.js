@@ -3,6 +3,8 @@ import About from './components/About'
 import Card from './components/Card'
 import Footer from './components/Footer'
 import Skills from './components/Skills'
+import Skills2 from './components/Skills2'
+import Skills3 from './components/Skills3'
 import ContactMe from './components/contact'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -21,7 +23,8 @@ function App() {
       </div>
       <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
         <About />
-        { <Skills /> }
+        <Skills2 />
+        <Skills3 />
         {/* <ContactMe /> */}
         <Footer />
 
