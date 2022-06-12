@@ -1,6 +1,6 @@
 import React from "react";
 import profile from '../images/image.jpg';
-import { FaVK } from 'react-icons/fa';
+import { FaVk } from 'react-icons/fa';
 
 function Card() {
     return(
@@ -20,7 +20,7 @@ function Card() {
                     </p>
                     <div className="flex align-center justify-center mt-4">
             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://vk.com/id118935597">
-              <FaVK />
+              <FaVk />
               <span class="sr-only">VK</span>
             </a>
           </div>

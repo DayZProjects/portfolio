@@ -21,8 +21,8 @@ function App() {
       </div>
       <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
         <About />
-        <Skills />
-        <ContactMe />
+        {/* <Skills /> */}
+        {/* <ContactMe /> */}
         <Footer />
 
       </div>
