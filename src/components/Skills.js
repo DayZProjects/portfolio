@@ -11,7 +11,7 @@ function Skills() {
 
     <div className="max-w-4xl mx-auto justify-center py-12" id="tech">
       <p className="text-2xl text-black  md:text-4xl font-bold text-center pt-4">
-        Начнём с продажи.
+        Начнём с продажи./
       </p>
       
 
